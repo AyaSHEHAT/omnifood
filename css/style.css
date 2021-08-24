@@ -136,13 +136,12 @@ h2::after {
     width: 100%;
     opacity: 0.6;
     transition: 1s;
-    transform: scale(1, 1);
+    transform: scale(1.150);
 }
 
 .meal img:hover {
-    width: 101%;
     opacity: 1;
-    transform: scale(1);
+    transform: scale(1.05);
 }
 
 #works {
