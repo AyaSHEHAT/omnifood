@@ -149,10 +149,13 @@ h2::after {
 }
 
 .left-work {
-    text-align: right;
     padding: 3%;
 }
-
+@media screen and (min-width: 731px)  {
+    .left-work {
+       text-align: right;
+    }
+}
 @media screen and (min-width: 480px) and (max-width: 730px)  {
     .left-work {
         text-align: center;
