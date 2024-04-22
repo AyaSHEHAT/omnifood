@@ -156,7 +156,6 @@ h2::after {
 @media screen and (min-width: 480px) and (max-width: 730px)  {
     .left-work {
         text-align: center;
-        /* padding: 3%; */
     }
 }
 .app-iPhone {
